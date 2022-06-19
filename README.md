@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @StephenHanw
+# Welcome to Han'Org
+👋 Hi, I’m @StephenHanw and you can just call me Han!  
+🧋 I like babo tea a lot!
 - 👀 I’m interested in travling and TV shows
 - 🌱 I’m currently learning git and java
 - 💞️ I’m looking to collaborate on ... wait to update
